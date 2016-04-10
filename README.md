@@ -6,6 +6,6 @@ Portfolio creation<br /> JavaScript language<br /> App Development(web,desktop,m
 ## Learning Objective: 
 Technologies to refine: Express.js, MySql, Socket.io, Angular.js
 ## Skillsets to learn: 
-Signup/login<br /> Multiple clients<br /> Realtime chat<br /> Gaming logic (OOP)<br /> Database storage<br /> MVC pattern<br /> Dront-end design (bootstrap) w. some gaming framework.
+Signup/login<br /> Multiple clients<br /> Realtime chat<br /> Gaming logic (OOP)<br /> Database storage<br /> MVC pattern<br /> Front-end design (bootstrap) w. some gaming framework.
 ## Purpose: 
 Show mates and have some fun.
