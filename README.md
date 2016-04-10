@@ -1,8 +1,5 @@
 # online-card-game
 
-## Main things to learn: 
-Full Stack development (freelancing mindset)<br />
-Portfolio creation<br /> JavaScript language<br /> App Development(web,desktop,mobile).<br />
 ## Learning Objective: 
 Technologies to refine: Express.js, MySql, Socket.io, Angular.js
 ## Skillsets to learn: 
