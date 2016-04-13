@@ -1,0 +1,9 @@
+{
+  "name" : "card-game-package",
+  "main" : "server.js",
+  "dependencies": {
+    "express": "*",
+    "mysql": "*",
+    "socket.io": "*"
+  }
+}
